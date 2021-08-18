@@ -1,3 +1,7 @@
+---
+name: General Issue
+about: Use this template for creating general issues
+---
 <!-- If you're unsure if this issue clearly results in action, consider starting a Discussion first. -->
 <!-- If you have a question, please start a Discussion rather than raising an issue. -->
 **GitHub Discussion:** # / NA
