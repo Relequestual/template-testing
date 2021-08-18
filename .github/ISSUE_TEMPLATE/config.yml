@@ -1,7 +1,7 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Ask a question
-    url: ./../../discussions
+    url: "./../../discussions"
     about: Please report security vulnerabilities here.
   - name: JSON Schema Slack
     url: https://json-schema.org/slack
